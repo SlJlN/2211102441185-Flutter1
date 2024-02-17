@@ -1,6 +1,6 @@
 {
-    "name": "aplikasi_flutter_pertamaku",
-    "short_name": "aplikasi_flutter_pertamaku",
+    "name": "flutter_application_modul1",
+    "short_name": "flutter_application_modul1",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
