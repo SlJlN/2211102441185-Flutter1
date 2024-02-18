@@ -1,4 +1,4 @@
-import 'package:flutter_application_modul1/hello_world.dart';
+import 'package:aplikasi_flutter_pertamaku/hello_world.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -6,12 +6,13 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key); 
+  const MyApp({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return  MaterialApp(
+      title: "Aplikasi Flutter Pertama",
       home: HelloWorld(),
     );
   }
-} 
+}

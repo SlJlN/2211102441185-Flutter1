@@ -1,4 +1,4 @@
-import 'package:flutter_application_modul1/column_widget.dart';
+import 'package:aplikasi_flutter_pertamaku/column_widget.dart';
 import 'package:flutter/material.dart';
 
 void main() {
